@@ -10,7 +10,7 @@ COPYRIGHTS OF CONTENT DOWNLOADED FROM THIS TOOL IS NOT OURS NOR OUR PROPERTY. WE
 - THIS SOFTWARE DOES NOT COME WITH ANY WARRANTY. USE IT AT YOUR OWN RISK
 - THIS SOFTWARE DOES NOT ENDORSE PIRACY. THIS SOFTWARE'S SOLE PURPOSE IS CONVEINIENCE
 - THE MATERIAL FROM THIS SOFTWARE MUST NOT BE REUPLOADED , REDISTRIBUTED ETC. IN ANY MEANS POSSIBLE. IF DONE SO , THIS PRODUCT IS NOT TO BE THE ONE RESPONSIBLE FOR THE Activit(y/ies) performed.
-- This Software Uses a Library Called Pytube , It is The Only Reason Why it is able to download youtube videos
+- This Software Uses a Library Called Pytube , It is The Only Reason Why it is able to download youtube videos  
 *this acknowledgement and/or Disclaimer are subject to change without prior notice from the creators.
 BY DOWNLOADING AND USING THIS SOFTWARE YOU AGREE THAT YOU HAVE READ THE ABOVE SENTENCES.
 
