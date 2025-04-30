@@ -8,6 +8,6 @@ Disclaimer: [View](https://github.com/deepanharsha/ProjectYTGet/blob/main/DISCLA
 License: [View](https://github.com/deepanharsha/ProjectYTGet/blob/main/LICENSE)
 
 ### Dependency Licenses
-Project YTGet v1.1.0 or later uses FFmpeg (https://ffmpeg.org)
-FFmpeg is licensed under the GNU Lesser General Public License (LGPL) version 2.1.
-A copy of the license is included in the archives which are used to download ProjectYTGet from (v1.1.0 or later).
+Project YTGet v1.1.0 or later uses FFmpeg (https://ffmpeg.org)  
+FFmpeg is licensed under the GNU Lesser General Public License (LGPL) version 2.1.  
+A copy of the license is included in the archives which are used to download ProjectYTGet from (v1.1.0 or later).  
