@@ -1,0 +1,11 @@
+This project includes the FFmpeg executable (ffmpeg.exe), which is licensed under the  
+GNU Lesser General Public License (LGPL) version 2.1.
+
+FFmpeg is a trademark of Fabrice Bellard and is maintained at https://ffmpeg.org
+
+In accordance with LGPL requirements, a copy of the license is included in this archive  
+as license.txt. You may replace ffmpeg.exe with another compatible version if desired.
+
+No modifications have been made to the FFmpeg binary.
+
+This notice is provided as required by the LGPL license.
