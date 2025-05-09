@@ -1,7 +1,10 @@
 # ProjectYTGet
 A Simple YouTube Downloader In Python With pytube.  
-This Project Is Created,Developed & Currently Maintained By [@deepanharsha](https://github.com/deepanharsha).
-Want to Support? [Contact Me](mailto:harshadeepan11@gmail.com).
+This Project Is Created,Developed & Currently Maintained By [@deepanharsha](https://github.com/deepanharsha).  
+Want to Support?  
+[![Donate with Cointr.ee](https://crewpublic.vercel.app/donate.png)
+](https://cointr.ee/deepanharsha)  
+A Donation would be Gladly Appreciated
 
 # How to Use?
 ### First Use
