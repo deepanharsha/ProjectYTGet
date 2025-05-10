@@ -4,7 +4,7 @@ This Project Is Created,Developed & Currently Maintained By [@deepanharsha](http
 Want to Support?  
 <a href="https://nowpayments.io/donation?api_key=2QF904V-6604308-P9CJ8TD-TSVCBA8" target="_blank" rel="noreferrer noopener">
     <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" alt="Crypto donation button by NOWPayments">
-</a>
+</a>  
 A Donation would be Gladly Appreciated
 
 # How to Use?
