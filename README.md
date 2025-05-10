@@ -2,10 +2,19 @@
 A Simple YouTube Downloader In Python With pytube.  
 This Project Is Created,Developed & Currently Maintained By [@deepanharsha](https://github.com/deepanharsha).  
 Want to Support?  
+You, the end user is the one who helps us throughout the funding of this project, Funding ProjectYTGet will help it grow and develop into a much much more amazing Open-source YT Downloader one day, even online!  
+   
+[Donate with Cointr.ee](https://cointr.ee/deepanharsha) (Min: $1USD)  
+   
+OR  
+   
 <a href="https://nowpayments.io/donation?api_key=2QF904V-6604308-P9CJ8TD-TSVCBA8" target="_blank" rel="noreferrer noopener">
     <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" alt="Crypto donation button by NOWPayments">
-</a>  
-A Donation would be Gladly Appreciated
+</a> (Min: $2 to $10 USD)  
+
+A Donation would be Gladly Appreciated.  
+<sup><sub>We currently only accept donations through crypto, sorry for the inconvenience.</sub></sup>  
+<sup><sub>For any enquiries related to payment [contact me](https://github.com/deepanharsha/ProjectYTGet#more-information)</sub></sup>
 
 # How to Use?
 ### First Use
