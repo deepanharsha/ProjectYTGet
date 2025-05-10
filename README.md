@@ -2,8 +2,9 @@
 A Simple YouTube Downloader In Python With pytube.  
 This Project Is Created,Developed & Currently Maintained By [@deepanharsha](https://github.com/deepanharsha).  
 Want to Support?  
-[![Donate with Cointr.ee](https://crewpublic.vercel.app/donate.png)
-](https://cointr.ee/deepanharsha)  
+<a href="https://nowpayments.io/donation?api_key=Z1QF6XJ-WWK42F7-HYE78BH-JEBA7CD" target="_blank" rel="noreferrer noopener">
+    <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" alt="Crypto donation button by NOWPayments">
+</a>  
 A Donation would be Gladly Appreciated
 
 # How to Use?
