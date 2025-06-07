@@ -27,8 +27,6 @@ System Requrirements have not been tested!
 ### For python (.py) v1.2.0 script:  
 **Python Version:** v3.11 or later (reccommended)  
 **Dependencies:** `pytubefix`, `requests` & FFMPEG (will be downloaded automatically)
-   
-Do `pip install pytubefix requests` in your cmd/terminal to install dependencies.
 
 # How to Use?
 ### First Use
