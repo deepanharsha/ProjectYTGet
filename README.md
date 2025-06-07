@@ -48,8 +48,6 @@ Do `pip install pytubefix requests` in your cmd/terminal to install dependencies
 - FFMPEG (included)
 - pytubefix
 - requests
-   
-  install dependencies with `pip install pytubefix requests`
 
 ### More Information.
 Disclaimer: [View](https://github.com/deepanharsha/ProjectYTGet/blob/main/DISCLAIMER.md#disclaimer)  
