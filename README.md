@@ -33,7 +33,7 @@ System Requrirements have not been tested!
 ### First Use
 - Open YTGet.
 - Wait for FFMPEG to be downloaded (83MB)
-- Then Continue as given [below](https://github.com/deepanharsha/ProjectYTGet/edit/main/README.md#second-or-later-use).
+- Then Continue as given [below](https://github.com/deepanharsha/ProjectYTGet?tab=readme-ov-file#second-or-later-use).
 
 ### Second or Later Use
 - Enter URL in "Enter YouTube URL" Section.
